@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-df = pd.read_csv("C:\\Users\\Tiago\\OneDrive\\Documentos\\repos\\ftc_progama\\dataset\\desafio_do_aluno\\zomato.csv")
+df = pd.read_csv("zomato.csv")
 
 st.header("Visao geral")
 
